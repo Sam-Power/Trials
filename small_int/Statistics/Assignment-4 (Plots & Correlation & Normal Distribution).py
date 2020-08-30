@@ -56,3 +56,10 @@ axes[0].set_title("LA LAKERS")
 axes[1].boxplot(LA_Clippers)
 axes[1].set_title("LA CLIPPERS")
 plt.show()
+
+"""
+3.
+    1-Clippers
+    2-Clippers
+    3-Equal
+"""
